@@ -26,3 +26,6 @@ ngrok for https tunneling
 2. Extract the zip file and place ngrok.exe in a folder.
 3. Open windows command prompt, go to that folder and run this command: ngrok http 80000
 
+**TRY IT OUT**
+https://lambent-cassata-701efb.netlify.app/
+
